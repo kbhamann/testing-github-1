@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kaibhamann.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1661969284|oXFj00em22tB
+kaibhamann.wixsite.com	TRUE	/	FALSE	1999999999	TS0148e245	018d9e98b693652c9154dd63194df4aa6b7512f1d38e2250224ec98c9a4f141d27ed6ec1592d1842e673e06e54a8f6a50da5ab188cd8830b6ccee7928c3dd8e564f84a679d
+kaibhamann.wixsite.com	TRUE	/	FALSE	1999999999	TS016cfd4e	018d9e98b6b62b830a973b66d3b3079988950db2a08e2250224ec98c9a4f141d27ed6ec1599dc6df4dde87438a89e21541a75dc8501a4b05523247d61a4c35da314d71e257
+kaibhamann.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01c46356a774e16307f064b41c78a8fe68e9a3e1ee103eccaf618e2a5221c7e69b3e143281d613abb9aca65aa1ab8f9bce8e8d9a76
+kaibhamann.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+

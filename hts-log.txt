@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 31 Aug 2022 12:07:53 at https://kaibhamann.wixsite.com/kai-hamann +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kaibhamann.wixsite.com/kai-hamann -O1 "C:\My Web Sites\wixtest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/decodeURIComponent(e (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/sitemap.xml (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/feed.xml (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/ (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/eec152dc.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/da6c52cb.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/7c602eb2.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/4da3e2b2.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/f52e40aa.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/99a6a99f.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/2b8b066f.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/64df1ce0.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/20a2c880.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.2bebaae4.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.20a2c880.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/rb_wixui.thunderbolt~common-site-members-dialogs.384b0b57.chunk.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/rb_wixui.thunderbolt~common-site-members-dialogs.02df5471.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/rb_wixui.thunderbolt~bootstrap.30ba8a50.chunk.min.css (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:08	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/rb_wixui.thunderbolt~bootstrap.64df1ce0.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/decodeURIComponent(e (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/robots.txt (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/feed.xml (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/version/ (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/eec152dc.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/da6c52cb.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/7c602eb2.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/4da3e2b2.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/99a6a99f.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/2b8b066f.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/64df1ce0.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/20a2c880.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/rb_wixui.thunderbolt~bootstrap-classic.2bebaae4.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/rb_wixui.thunderbolt~bootstrap-responsive.20a2c880.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/rb_wixui.thunderbolt~common-site-members-dialogs.384b0b57.chunk.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/rb_wixui.thunderbolt~common-site-members-dialogs.02df5471.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/rb_wixui.thunderbolt~bootstrap.30ba8a50.chunk.min.css (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+12:08:17	Error: 	"Not Found" (404) at link https://kaibhamann.wixsite.com/kai-hamann/rb_wixui.thunderbolt~bootstrap.64df1ce0.chunk.min.js (from https://kaibhamann.wixsite.com/kai-hamann/blank-1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 81 links scanned, 41 files written (2740761 bytes overall) [1134001 bytes received at 47250 bytes/sec], 2478100 bytes transferred using HTTP compression in 56 files, ratio 27%, 2.0 requests per connection
+(39 errors, 0 warnings, 0 messages)
